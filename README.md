@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator for practice
+Simple calculator using Kotlin
